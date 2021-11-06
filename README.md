@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working to become a DevOps engineer
-- 🌱 I’m currently learning at Sel college BOOTCAMP 
+- 🌱 I’m currently learning at Sela college 
 - 💬 Ask me about anything
 - 📫 How to reach me: my e-mail iliyab09@gmail.com
 - ⚡ Fun fact: ... I like fishing
