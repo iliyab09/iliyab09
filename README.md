@@ -6,6 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at Sel college BOOTCAMP 
 - 💬 Ask me about anything
 - 📫 How to reach me: my e-mail iliyab09@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I like fishing
--->
