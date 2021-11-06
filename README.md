@@ -22,5 +22,3 @@ https://github.com/iliyab09/passValidatorRemote</br>
 https://github.com/iliyab09/TerraformForAzure-IaC</br>
 https://github.com/iliyab09/confuguration_management</br>
 https://github.com/iliyab09/CI-CDazure</br></br></br>
-
-### I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit both me and the organization
