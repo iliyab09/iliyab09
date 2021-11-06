@@ -9,7 +9,7 @@
 
 
 My Projects from the bootcamp:
-https://github.com/iliyab09/passValidatorRemote
-https://github.com/iliyab09/TerraformForAzure-IaC
-https://github.com/iliyab09/confuguration_management
-https://github.com/iliyab09/CI-CDazure
+https://github.com/iliyab09/passValidatorRemote</br>
+https://github.com/iliyab09/TerraformForAzure-IaC</br>
+https://github.com/iliyab09/confuguration_management</br>
+https://github.com/iliyab09/CI-CDazure</br>
