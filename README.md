@@ -11,8 +11,7 @@
 - 🏝 IDEs/Editors:
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-- 📫 How to reach me: 
-      my e-mail iliyab09@gmail.com
+- 📫 How to reach me: iliyab09@gmail.com
 
 - ⚡ Fun fact: ... I like fishing
 
