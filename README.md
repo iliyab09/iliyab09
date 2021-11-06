@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working to become a DevOps engineer
 
-- 🌱 I’m currently learning at Sela college 
+- 🌱 I’m currently studing at Sela college 
 
 - 💬 My skills: 
 
