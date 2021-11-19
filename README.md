@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working to become a DevOps engineer
+- 🔭 Working to become a DevOps engineer
 
 - 🌱 Currently studing at Sela college 
 
