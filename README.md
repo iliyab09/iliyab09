@@ -11,12 +11,3 @@
 
 - ⚡ Fun fact: ... I like fishing
 
-
-
-My projects from the bootcamp:</br>
-https://github.com/iliyab09/kubernetesProject</br>
-https://github.com/iliyab09/WEEK9DOCKERAPP</br>
-https://github.com/iliyab09/passValidatorRemote</br>
-https://github.com/iliyab09/TerraformForAzure-IaC</br>
-https://github.com/iliyab09/confuguration_management</br>
-https://github.com/iliyab09/CI-CDazure</br></br></br>
